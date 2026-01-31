@@ -1,0 +1,2 @@
+wake_time_planned,sleep_time_planned,study_hours_planned,morning_routine_planned,gym_planned,priorities,date,id,created_at,updated_at
+07:00,23:00,6.0,True,True,study,2026-01-31,cbebe1c0-d86b-4353-89f5-2399b9d5eda9,2026-01-31T18:39:00.141355,2026-01-31T18:39:16.789875
