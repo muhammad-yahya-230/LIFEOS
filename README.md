@@ -1,4 +1,4 @@
-# LifeOS v3.0: The Autonomous Self 🧬
+# LifeOS : The Autonomous Self 🧬
 
 A personal life operating system for high-performance student living.
 Designed to help you: **Plan → Execute → Measure → Adapt → Improve.**
